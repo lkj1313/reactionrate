@@ -1,0 +1,39 @@
+html, body{
+  height: 100%;
+}
+
+.bluebox{
+  width : 100%;
+  height: 100%;
+  background-color: skyblue;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  display: block;
+}  
+
+.redbox {
+  width : 100%;
+  height: 100%;
+  background-color: red;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  display: none;
+}
+
+.greenbox {
+  width : 100%;
+  height: 100%;
+  background-color: green;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  display: none;
+}
+
+.displayblock{
+  display : block;
+}
+
+  
